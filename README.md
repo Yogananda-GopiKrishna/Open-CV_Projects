@@ -1,2 +1,2 @@
-# Open-CV_Projects
+# OpenCV Projects
 Open CV Projects
